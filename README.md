@@ -15,7 +15,7 @@ Generative AI represents a cutting-edge advancement in artificial intelligence, 
 </div>
 
 
-## 🧠 [1. Sales Content Creation](https://github.com/Nexasprint/GenAI-Usecases/blob/main/Detailed%20UseCse/Generative%20AI%20in%20Sales%20Content%20Creation.md)
+## 🧠 [1. Sales Content Creation](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Generative%20AI%20in%20Sales%20Content%20Creation.md)
 
 **Description:**
 Generative AI can create personalized sales content such as emails and messages tailored to individual prospect profiles and behaviors. By analyzing data on prospects' preferences, interactions, and historical data, AI suggests effective communication strategies to improve response rates. Additionally, it can generate sales scripts and talking points customized for different customer segments, industries, and specific products or services.
