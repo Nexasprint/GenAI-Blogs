@@ -25,7 +25,7 @@ Generative AI can create personalized sales content such as emails and messages 
 - **📝Script Generation:** Based on real-time data and predefined criteria, AI generates sales scripts optimized for different scenarios, enhancing sales team efficiency.
 - **📄Segment-Specific Content:** Tailored content creation ensures that messaging resonates with each customer segment, improving relevance and conversion rates.
 
-## [2. Marketing Content Creation](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Marketing%20Content%20Creation%20using%20GenAI.md)
+## 🤖 [2. Marketing Content Creation](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Marketing%20Content%20Creation%20using%20GenAI.md)
 
 **Description:**
 Generative AI creates engaging marketing content such as blog posts, social media updates, and email newsletters, saving time and resources while maintaining quality.
