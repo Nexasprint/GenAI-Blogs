@@ -182,7 +182,7 @@ print(code_snippet)
 import openai
 import our_api
 
-our_api.api_key = 'your_api_key'
+our_api.api_key = 'our_api_key'
 ```
 ### Usage
 ```python
