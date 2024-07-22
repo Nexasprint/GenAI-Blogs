@@ -35,7 +35,7 @@ Generative AI creates engaging marketing content such as blog posts, social medi
 - **Content Optimization:** AI optimizes content for different platforms and demographics, enhancing visibility and engagement across various channels.
 - **Campaign Support:** AI supports marketing campaigns by generating timely and targeted content, facilitating broader audience reach and campaign success.
 
-## 3.💻 [Code Generation](https://github.com/Nexasprint/GenAI-Usecases/blob/main/Detailed%20UseCse/Code%20Generation.md)
+## 3.💻 [Code Generation](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/code%20generation.md)
 **Description:**
 AI accelerates application development by suggesting code snippets and solutions based on developers' comments and existing code. This aids in reducing development time and improving code quality.
 
