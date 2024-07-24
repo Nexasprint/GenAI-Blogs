@@ -44,7 +44,7 @@ AI accelerates application development by suggesting code snippets and solutions
 - **Automated Code Review:** AI performs automated code reviews, suggesting improvements and optimizations based on best practices and project requirements.
 - **Integration with IDEs:** Seamless integration with Integrated Development Environments (IDEs) allows developers to access AI-generated code suggestions directly during development.
 
-## 4. AI-Managed Portfolios
+## 4. [AI-Managed Portfolios](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/AI-Managed%20Portfolios.md)
 
 **Description:**
 AI-managed portfolios utilize generative AI to create personalized investment strategies and portfolios aligned with specific financial goals and risk profiles. They automate portfolio management tasks, optimize asset allocation, and adapt strategies based on market conditions.
