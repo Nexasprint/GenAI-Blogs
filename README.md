@@ -44,7 +44,7 @@ AI accelerates application development by suggesting code snippets and solutions
 - **Automated Code Review:** AI performs automated code reviews, suggesting improvements and optimizations based on best practices and project requirements.
 - **Integration with IDEs:** Seamless integration with Integrated Development Environments (IDEs) allows developers to access AI-generated code suggestions directly during development.
 
-## 4. Real-Time Fraud Detection
+## 4. [Real-Time Fraud Detection](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Generative%20AI%20in%20Financial%20Fraud%20Detection.md)
 
 **Description:**  
 Generative AI can detect fraudulent activities in real-time by analyzing transaction data and identifying suspicious patterns.
