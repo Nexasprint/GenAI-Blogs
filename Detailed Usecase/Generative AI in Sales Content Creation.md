@@ -177,7 +177,7 @@ IBM Watson offers AI-driven solutions that analyze vast datasets to generate tai
 ### Conclusion
 These companies exemplify the transformative impact of generative AI in sales content creation, demonstrating its ability to drive personalized customer interactions, improve sales effectiveness, and ultimately, drive business growth through enhanced engagement and conversion rates.
 
-For more information on our SDKs and Agentic platform, please reach out to us. Visit our website at [AI-Horizon](https://aiho76.wp10.hostingraja.org/).
+For more information on our SDKs and Agentic platform, please reach out to us. Visit our website at [AI-Horizon](https://ai-horizon.io/).
 
 #### References
 1. ["The Impact of AI on Marketing Operations: What to Expect with HubSpot Tools"](https://www.1406consulting.com/blog/the-impact-of-ai-on-marketing-operations-what-to-expect-with-hubspot-tools)
