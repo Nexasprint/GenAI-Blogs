@@ -155,7 +155,7 @@ Pandora uses AI for personalized music recommendations and content curation, enh
 ## 🔚 Conclusion
 Generative AI is not just a tool; it’s a game-changer for marketing content creation. By harnessing its power, businesses can produce engaging, high-quality content at scale, maintain consistency across platforms, and drive successful marketing campaigns. Dive into the world of generative AI and transform your marketing strategy, ensuring your brand remains ahead in the competitive digital landscape.
 
-For more information on our SDKs and Agentic platform, please reach out to us. Visit our website at [AI-Horizon](https://aiho76.wp10.hostingraja.org/).
+For more information on our SDKs and Agentic platform, please reach out to us. Visit our website at [AI-Horizon](https://ai-horizon.io/).
 
 ## 📌 References
 
