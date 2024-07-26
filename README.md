@@ -56,7 +56,7 @@ Generative AI can detect fraudulent activities in real-time by analyzing transac
 - **Real-Time Alerts:** AI generates real-time alerts for potential fraudulent activities, enabling immediate action.
 - **Fraud Prevention:** This proactive approach minimizes financial losses and enhances security.
 
-## 5. [Supply Chain Optimization](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Supply%20Chain%20Optimization.md)
+## 5.📦 [Supply Chain Optimization](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Supply%20Chain%20Optimization.md)
 
 **Description:**  
 Improve logistics and reduce costs by evaluating and optimizing different supply chain scenarios using generative AI.
