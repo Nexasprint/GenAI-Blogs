@@ -164,7 +164,7 @@ print(detected_fraudulent_transactions[detected_fraudulent_transactions['is_frau
 ```
 In this example, we demonstrate how to perform data analysis and prediction using a conventional Random Forest model and how to simplify the process using AI-Horizon SDK. The SDK streamlines the setup and usage, providing an efficient and integrated approach to clinical data analysis.
 
-For more information on our SDKs and Agentic platform, please reach out to us. Visit our website at [AI-Horizon](https://aiho76.wp10.hostingraja.org/).
+For more information on our SDKs and Agentic platform, please reach out to us. Visit our website at [AI-Horizon](https://ai-horizon.io/).
 
 
 ## How AI Horizon Enhances Real-Time Fraud Detection
