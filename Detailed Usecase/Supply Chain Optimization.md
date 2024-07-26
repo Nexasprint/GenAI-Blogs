@@ -1,5 +1,5 @@
 <h2 align="center">
-  <a href="https://aiho76.wp10.hostingraja.org">
+  <a href="https://ai-horizon.io/">
     <img width="20%" src="https://github.com/Nexasprint/GenAI-Usecases/assets/172467466/b2c6e902-475e-49fa-85f7-8145f79cfe83" alt="AI-Horizon Logo" />
   </a>
 </h2>
