@@ -68,7 +68,7 @@ Improve logistics and reduce costs by evaluating and optimizing different supply
 - **Real-Time Adjustments:** AI systems monitor supply chain operations in real-time, making dynamic adjustments to optimize performance.
 - **Cost Reduction:** By optimizing logistics and inventory management, companies can significantly reduce operational costs and improve service levels.
 
-## 6. [Smart Legal Document Analysis](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Smart%20Legal%20Document%20Analysis.md)
+## 6.🧠 [Smart Legal Document Analysis](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Smart%20Legal%20Document%20Analysis.md)
 
 **Description:**  
 Generative AI can analyze legal documents, extract key information, and assist in contract review and compliance.
