@@ -176,13 +176,13 @@ Generative AI represents a paradigm shift in how financial institutions manage d
 
 📚 **References**
 
-- AI with a human touch
-- AI Meets the Efficiency Demanded of Legal Teams
-- How legal teams are using Luminance for AI-powered automation
-- The New Frontier of Document Review: A Closer Look at Luminance Discovery
-- Kira Systems: The Future of Legal Document Review
-- Ross Intelligence: AI for Legal Research
-- Eigen Technologies: AI for Legal and Financial Documents
+- [AI with a human touch](https://www.lawgeex.com/platform/managed-ai/)
+- [AI Meets the Efficiency Demanded of Legal Teams](https://www.lawgeex.com/ai-meets-the-efficiency-demanded-of-legal-teams/)
+- [How legal teams are using Luminance for AI-powered automation](https://www.legaldive.com/news/luminance-ai-powered-automation-koch-deloitte-big-four/644242/)
+- [The New Frontier of Document Review: A Closer Look at Luminance Discovery](https://www.luminance.com/news/blogs/20230210_luminance.html)
+- [Kira Systems: The Future of Legal Document Review](https://kirasystems.com/files/whitepapers/KiraSystems-How_Law_Firms_Leverage_Kira.pdf)
+- [Ross Intelligence: AI for Legal Research](https://www.workiva.com/resources/where-start-legal-technology-modern-roadmap-legal-teams?utm_medium=Search&utm_type=Paid&utm_source=Google&utm_campaign=Evergreen-TOFU&utm_geo=North-America&utm_segment=Legal&utm_iteration=Legal-Tech-for-Legal-Transformation-Search-Unbranded&gad_source=1&gclid=CjwKCAjw7s20BhBFEiwABVIMrfVDNqfKYwCdOrHIfmDuvvxqH9McH8khwXKySsLj9DRSwbrpaTnT6BoCd9gQAvD_BwE)
+- [Eigen Technologies: AI for Legal and Financial Documents](https://eigentech.com/)
 
 ---
 
