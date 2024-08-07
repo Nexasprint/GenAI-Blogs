@@ -138,7 +138,7 @@ print("Extracted Information:", key_information)
 
 ---
 
-For more information on our SDKs and Agentic platform, please reach out to us. Visit our website at AI-Horizon.
+For more information on our SDKs and Agentic platform, please reach out to us. Visit our website at [AI-Horizon](https://ai-horizon.io/).
 
 🚀 Future Trends and Advancements in Generative AI
 
