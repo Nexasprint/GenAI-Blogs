@@ -80,7 +80,7 @@ Generative AI can analyze legal documents, extract key information, and assist i
 - **Risk Assessment:** AI evaluates the risk associated with legal documents, providing insights for decision-making.
 - **Efficiency:** This reduces the time and effort required for manual document review, enhancing legal operations and accuracy.
 
-## 7. Transform Financial Documentation
+## 7. [Transform Financial Documentation](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Transform%20Financial%20Documentation%20Using%20Generative%20AI.md)
 
 **Description:**
 Generative AI streamlines the creation of financial documents such as investment research, loan documentation, insurance policies, regulatory communications, and business correspondence. It accelerates document drafting while ensuring accuracy and compliance with regulatory standards.
