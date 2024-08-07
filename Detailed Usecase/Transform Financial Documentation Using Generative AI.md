@@ -1,6 +1,6 @@
 <h2 align="center">
-  <a href="https://aiho76.wp10.hostingraja.org">
-    <img width="20%" src="https://github.com/Nexasprint/GenAI-Usecases/assets/172467466/b2c6e902-475e-49fa-85f7-8145f79cfe83" alt="AI-Horizon Logo" />
+  <a href="https://ai-horizon.io/">
+    <img width="20%" src="https://github.com/user-attachments/assets/78f02f61-9c67-4399-b281-8d3eaa4a4601" alt="AI-Horizon Logo" />
   </a>
 </h2>
 
