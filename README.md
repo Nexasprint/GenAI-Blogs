@@ -92,7 +92,7 @@ Generative AI streamlines the creation of financial documents such as investment
 - **Time Efficiency:** Automation reduces the time required for document preparation, enabling financial institutions to focus on strategic initiatives and client service.
 
 
-## 🧪8.[Drug Discovery]()
+## 🧪8.[Drug Discovery](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Drug%20Discovery.md)
 
 **Description:**
 AI tools for drug discovery utilize generative AI for tasks such as protein folding, sequence design, molecular docking, and structure prediction. They accelerate the drug development process by predicting and optimizing potential drug candidates.
