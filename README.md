@@ -103,7 +103,7 @@ AI tools for drug discovery utilize generative AI for tasks such as protein fold
 - **Cost Efficiency:** AI reduces the time and cost associated with traditional drug discovery methods by automating iterative computational processes.
 - **Innovation:** AI-driven drug discovery expands the scope of potential treatments and therapies, addressing unmet medical needs and advancing scientific research.
 
-## 9. [AI-Managed Portfolios](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/portfolio%20management.md)
+## 🤖9. [AI-Managed Portfolios](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/portfolio%20management.md)
 
 **Description:**
 AI-managed portfolios utilize generative AI to create personalized investment strategies and portfolios aligned with specific financial goals and risk profiles. They automate portfolio management tasks, optimize asset allocation, and adapt strategies based on market conditions.
