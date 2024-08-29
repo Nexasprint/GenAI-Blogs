@@ -114,8 +114,7 @@ AI-managed portfolios utilize generative AI to create personalized investment st
 - **Personalization:** AI tailors investment strategies to client goals, preferences, and changing financial circumstances.
 - **Performance Monitoring:** AI provides real-time performance analytics and reporting, enabling proactive portfolio adjustments and client communication.
 
-## 10. [Chatbots💬 and Virtual Assistants🗣️: Transforming Customer Service with Generative AI
-](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Chatbots%F0%9F%92%AC%20and%20Virtual%20Assistants%F0%9F%97%A3%EF%B8%8F.md)
+## 10. [Chatbots💬 and Virtual Assistants🗣️: Transforming Customer Service with Generative AI](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Chatbots%F0%9F%92%AC%20and%20Virtual%20Assistants%F0%9F%97%A3%EF%B8%8F.md)
 
 **Description:**
 Generative AI-powered chatbots, voice bots, and virtual assistants automate customer service queries, improving efficiency and reducing operational costs. They provide instant responses and support across various channels, enhancing customer satisfaction through timely and accurate interactions.
