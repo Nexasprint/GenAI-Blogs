@@ -160,7 +160,7 @@ Generate high-quality video content for marketing, training, or educational purp
 - **Editing and Production:** AI assists in editing and producing the final video content, ensuring high quality and professional standards.
 - **Customization:** Videos are tailored to specific audiences, maximizing engagement and effectiveness.
 
-- ## 14. Product Development
+- ## 14. [Product Development](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Accelerating%20Product%20Development%20with%20Generative%20AI.md?plain=1)
 
 **Description:**
 Generative AI accelerates product development by generating design prototypes or optimizing existing designs based on user feedback and specified constraints. This speeds up the ideation phase and ensures designs align closely with user needs and expectations.
