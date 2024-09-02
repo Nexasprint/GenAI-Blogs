@@ -7,14 +7,13 @@
 </h2>
 
 
-# 🧠 Smart Legal Document Analysis
+# 📈 Planogram Optimization: Revolutionizing Retail Layouts with AI
 
 <h2 align="center">
     <img  src="https://github.com/user-attachments/assets/4a2ca27e-bcd2-4219-a9f4-6a7e1bfa1850" />
   </a>
 </h2>
 
-# 📈 Planogram Optimization: Revolutionizing Retail Layouts with AI
 
 **Description:**  
 Planogram optimization involves using AI to dynamically update retail store layouts based on new products, changing inventory levels, sales trends, and competitor data. It ensures that product placements maximize sales and enhance the shopping experience.
