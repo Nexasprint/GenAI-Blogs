@@ -125,7 +125,7 @@ Generative AI-powered chatbots, voice bots, and virtual assistants automate cust
 - **Cost Reduction:** By automating repetitive tasks, AI-powered assistants reduce operational costs associated with customer service management.
 - **Personalization:** AI analyzes customer data to personalize interactions, offering tailored recommendations and solutions based on individual preferences and behaviors.
 
-## 11. [Personalized Recommendations](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Personalized%20Recommendations.md)
+## 11. [🎯 Personalized Recommendations✨](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Personalized%20Recommendations.md)
 
 **Description:**  
 Generative AI can analyze customer data to create customized promotions and personalized product recommendations, enhancing the shopping experience and increasing customer satisfaction.
@@ -137,7 +137,7 @@ Generative AI can analyze customer data to create customized promotions and pers
 - **Promotional Offers:** AI can also design customized promotional offers. By identifying which promotions resonate best with individual customers, AI increases engagement and conversion rates.
 - **Dynamic Adjustments:** The recommendation engine continuously learns and adapts based on new customer interactions and feedback, ensuring that the recommendations remain relevant and effective over time.
 
-  ## 12. [Planogram Optimization](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Planogram%20Optimization.md)
+  ## 12. [🛒 Planogram Optimization📊](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Planogram%20Optimization.md)
 
 **Description:**
 Planogram optimization involves using AI to dynamically update retail store layouts based on new products, changing inventory levels, sales trends, and competitor data. It ensures that product placements maximize sales and enhance the shopping experience.
@@ -149,7 +149,7 @@ Planogram optimization involves using AI to dynamically update retail store layo
 - **Customer Experience:** Optimized planograms enhance navigation and product visibility, improving customer satisfaction and driving sales conversion rates.
 
 
-## 13. [Video Content Creation](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Video%20Content%20Creation.md)
+## 13. [🎥 Video Content Creation✂️ ](https://github.com/Nexasprint/GenAI-Blogs/blob/main/Detailed%20Usecase/Video%20Content%20Creation.md)
 **Description:**  
 Generate high-quality video content for marketing, training, or educational purposes using generative AI techniques.
 
